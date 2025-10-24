@@ -9,6 +9,7 @@ namespace TestAdmissionCommittee
         [TestMethod]
         public void TestMethod1()
         {
+
         }
     }
 }
